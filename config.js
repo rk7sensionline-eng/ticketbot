@@ -1,6 +1,6 @@
 module.exports = {
   // ─── Coloque o token do seu bot aqui ───────────────────────────────────────
-  token: "MTQ4MzI1MzUwMzA2MDA4NjgwNA.G_Ynxb._OpBnn3EBzgEVydNGkHv6CbU8RcbgyVQ6RCeAk",
+  token: "MTQ4MzI1MzUwMzA2MDA4NjgwNA.GQwFmQ.fqOGI0onCX2W9oT_cHV9UlLXZdxl0FVgAspAjs",
   // ─── Cor do embed (hex) ────────────────────────────────────────────────────
   embedColor: "#e91e8c", // Rosa igual ao tema da foto
   // ─── Nome da categoria onde os tickets serão criados ──────────────────────
